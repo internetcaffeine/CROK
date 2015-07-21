@@ -1,0 +1,45 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "internetcaffeine@gmail.com",
+    "longName": "ff0000",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/CROK_4.png",
+                "name": "CROK_4",
+                "type": "png"
+            },
+            {
+                "file": "images/CROK_3.png",
+                "name": "CROK_3",
+                "type": "png"
+            },
+            {
+                "file": "images/CROK_2.png",
+                "name": "CROK_2",
+                "type": "png"
+            },
+            {
+                "file": "images/CROK_1.png",
+                "name": "CROK_1",
+                "type": "png"
+            },
+            {
+                "file": "images/CROK_0.png",
+                "name": "CROK_0",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ff0000",
+    "uuid": "596c35db-6436-4b90-8bd8-873e41dd8f68",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
